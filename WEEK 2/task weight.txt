@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# include <iostream> 
+using namespace std ;
+
+
+main () 
+
+{
+  int weight,pounds;
+  cout<< " Enter weight in pounds ";
+  cin>> weight;
+  pounds=0.45*weight;
+  cout<< weight <<"pound is equal to"<<pounds<<"kilograms";
+
+  return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

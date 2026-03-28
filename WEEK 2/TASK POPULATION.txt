@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+main( ) 
+{
+    
+
+    cout << "Enter the current world population: ";
+    cin >> population;
+
+   
+    cout << "Enter the monthly birth rate (number of births per month): ";
+    cin >> n;
+
+  
+    cout << "Population in three decades will be: " << finalPopulation << endl;
+
+    return 0;
+}
