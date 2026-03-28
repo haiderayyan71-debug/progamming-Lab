@@ -8,6 +8,7 @@ int main() {
     cout << "Enter a single character: ";
     cin >> ch;
 
+
     // Check if it's a number
     if (ch >= '0' && ch <= '9') {
         cout << "It is a number." << endl;
